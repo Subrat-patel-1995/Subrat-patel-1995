@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subrat-patel-1995
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Analytics
-- 💞️ I’m looking to collaborate on ...Data Visualisation,Data Analysis
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...java Multithreading and concurrency
+- 💞️ I’m looking to collaborate on ... System Design and Data Structures
 - 📫 How to reach me ...subratapatel1995@gmail.com
 
 <!---
